@@ -24,5 +24,6 @@ function divide (a,b) {
     return number;
 }
 function   makeInt(a) {
-  number = 
+  number = parseInt(a,10);
+  return number
 }
