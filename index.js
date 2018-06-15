@@ -19,8 +19,10 @@ function divide (a,b) {
     number = a +1;
     return number;
 }
-  function dec(a){
+  function dec(a) {
     number = a -1;
     return number;
 }
-function   
+function   makeInt(a) {
+  number = 
+}
