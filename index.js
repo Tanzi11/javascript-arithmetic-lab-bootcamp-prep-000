@@ -23,7 +23,8 @@ function divide (a,b) {
     number = a -1;
     return number;
 }
-function   makeInt(a) {
+function makeInt(a) {
   number = parseInt(a,10);
-  return number
+  return number;
 }
+function 
