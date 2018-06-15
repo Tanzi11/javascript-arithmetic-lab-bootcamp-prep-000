@@ -19,7 +19,9 @@ function divide (a,b) {
     number = a +1;
     return number;
 }
-  
+  function dec(a){
+    
+  }
   
   }
 }
